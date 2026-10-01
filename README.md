@@ -5,7 +5,10 @@ GitHub Pages 로 공개되어 Google Play Console 의 「개인정보처리방�
 
     https://mozzidoda.github.io/azota-games-privacy/
 
-- `index.html` — 방침 본문 (한국어 · 영어, 14개 조항)
+- `index.html` — 엘리멘탈 체인 방침 본문 (한국어 · 영어, 14개 조항)
+- `bibim-boss/index.html` — **비빔 보스** 방침 (한국어 · 영어)
+
+      https://mozzidoda.github.io/azota-games-privacy/bibim-boss/
 
 원본은 게임 저장소의 `docs/privacy/index.html` 입니다.
 **앱이 수집하는 것이 바뀌면 두 곳을 함께 고쳐야 합니다.** 안 고치면 정책 위반입니다.
